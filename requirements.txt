@@ -1,0 +1,4 @@
+flask
+requests
+Flask-Table==0.2.4
+python-dotenv
